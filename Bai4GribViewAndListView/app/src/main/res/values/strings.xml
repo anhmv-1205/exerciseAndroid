@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bai4GribViewAndListView</string>
+    <string-array name="arrMonHoc">
+        <item>C/C++</item>
+        <item>Java</item>
+        <item>C#</item>
+        <item>Python</item>
+        <item>Swift</item>
+        <item>Koltin</item>
+        <item>Nodejs</item>
+        <item>jQuery</item>
+        <item>HTML</item>
+        <item>CSS</item>
+        <item>Javascript</item>
+        <item>Bootstrap</item>
+    </string-array>
+</resources>
