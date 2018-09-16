@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="edt_magin_left">25dp</dimen>
+    <dimen name="edt_magin_right">25dp</dimen>
+    <dimen name="edt_margin_top">15dp</dimen>
+    <dimen name="edt_margin_bottom">15dp</dimen>
+
+    <dimen name="btn_margin_top">60dp</dimen>
+
+    <dimen name="text_padding">10dp</dimen>
+    
+    <dimen name="text_size_large">20sp</dimen>
+    <dimen name="text_size_small">10sp</dimen>
+    
+    <dimen name="border_radius">10dp</dimen>
+
+</resources>
