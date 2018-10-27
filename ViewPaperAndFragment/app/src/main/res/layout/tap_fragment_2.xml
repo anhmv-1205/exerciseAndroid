@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TapFragment2"
+    android:background="@drawable/nancy"
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        >
+        <TextView
+            android:id="@+id/txtTen"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1. Tên thật: Nancy Jewel Mcdonie"
+            android:textColor="#f22"
+            />
+
+        <TextView
+            android:id="@+id/txtNgaySinh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2. Ngày sinh: 13.04.2000"
+            android:textColor="#f22"
+            android:layout_marginTop="10dp"
+            />
+
+        <TextView
+            android:id="@+id/txtNguoiThan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3. Có bố người Mỹ, mẹ người Hàn và một chị gái tên là Brenda Mcdonie"
+            android:textColor="#f22"
+            android:layout_marginTop="10dp"
+            />
+
+
+        <TextView
+            android:id="@+id/txtHocVan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="4. Đang theo học tại trường nghệ thuật Halim"
+            android:textColor="#f22"
+            android:layout_marginTop="10dp"
+            />
+
+        <TextView
+            android:id="@+id/txtNgheNghiep"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="5. Nancy từng là trainee của Nega Network và hiện tại đang là trainee của Doublekick"
+            android:textColor="#f22"
+            android:layout_marginTop="10dp"
+            />
+
+        <TextView
+            android:id="@+id/txtTaiNang"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="6. Từng dự thi Korea's Got Talent"
+            android:textColor="#f22"
+            android:layout_marginTop="10dp"
+            />
+
+    </LinearLayout>
+
+</RelativeLayout>

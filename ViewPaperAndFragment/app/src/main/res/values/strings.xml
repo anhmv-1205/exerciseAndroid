@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ViewPaperAndFragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="thong_tin_ca_nhan"><u>Thông tin cá nhân</u></string>
+    <string name="thong_tin_cong_viec"><u>Người yêu</u></string>
+</resources>
