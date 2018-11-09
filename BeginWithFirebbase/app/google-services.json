@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "892060529652",
+    "firebase_url": "https://beginwithggfb-bc3d7.firebaseio.com",
+    "project_id": "beginwithggfb-bc3d7",
+    "storage_bucket": "beginwithggfb-bc3d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892060529652:android:d86f84cc369d1d57",
+        "android_client_info": {
+          "package_name": "vn.edu.vananh.beginwithfirebbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892060529652-678lrv3rq052t33kqohitsark75uuefv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC90tuR8MFz6iQwh8Va-RVVnnWmQyb6NaE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
