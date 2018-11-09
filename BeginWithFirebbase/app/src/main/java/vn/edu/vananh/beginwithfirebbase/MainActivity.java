@@ -275,4 +275,18 @@ public class MainActivity extends AppCompatActivity {
         progressBar.setVisibility(View.GONE);
 
     }
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+        auth.addAuthStateListener(authListener);
+    }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+        if (authListener != null) {
+            auth.removeAuthStateListener(authListener);
+        }
+    }
 }
