@@ -276,11 +276,8 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    @Override
-    protected void onStart() {
-        super.onStart();
-        auth.addAuthStateListener(authListener);
-    }
+
+
 
     @Override
     protected void onStop() {
